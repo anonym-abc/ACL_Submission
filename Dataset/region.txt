@@ -1,0 +1,11 @@
+region_mapping = {
+    'north': ['uttar pradesh', 'haryana', 'punjab', 'himachal pradesh',
+              'uttarakhand', 'jammu and kashmir', 'chandigarh', 'delhi'],
+    'south': ['tamil nadu', 'karnataka', 'andhra pradesh', 'telangana',
+              'kerala', 'puducherry'],
+    'east': ['west bengal', 'bihar', 'odisha'],
+    'west': ['maharashtra', 'gujarat', 'rajasthan'],
+    'central': ['madhya pradesh', 'chhattisgarh'],
+    'northeast': ['tripura', 'mizoram', 'assam', 'sikkim', 'nagaland',
+                  'arunachal pradesh', 'meghalaya']
+}
